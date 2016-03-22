@@ -1,0 +1,1 @@
+void printArray(int * arr, int length);
