@@ -5,6 +5,7 @@ Right-click context menu consists of several panels. Each panel contains several
 For example, in the above picture there are two panels. Both panels contains 3 sections. The 3 sections on the left panel have 2("Copy", "Paste"), 1("New"), 1("Settings") row(s) respectively. And the row named "New" leads to a new panel - the panel on the right.
 Little Ho defines the length of a context menu is the vertical distance between the highest top edge amoung all panels and the lowest bottom edge amoung all panels. The length of the context menu in the above picture is 6.
 Sometimes a context menu is so long that it exceeds the display area. Little Ho wants to know, if he can rearrange the order of sections in the same panel and the order of rows in the same section, what is the minimal length the context may have.
+
 ![](http://coj.cqut.edu.cn/upload/201506/image/as.png)
 ![](http://coj.cqut.edu.cn/upload/201506/image/as1.png)
 
@@ -259,4 +260,4 @@ int main(int argc,char * argv[]){
 }
 ```
 
-> Create by @CreazyChen
+> Create by @CrazyChen
