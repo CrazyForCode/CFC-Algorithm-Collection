@@ -2,5 +2,5 @@
 
 ## 算法目录
 
-### [遗传算法](../遗传算法/generatic-algorithm)
+### [遗传算法](./generatic-algorithm)
  
